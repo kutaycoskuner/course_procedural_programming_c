@@ -16,5 +16,7 @@
 # Blackboard
 
 # Log
+- [0.11] spring23:pp:s2: Session 2 exercises
+    - 08-May-2023 17.09-19.01 session 2 exercises
 - [0.10] spring23:pp:s1: exercise and lab
-- 25-Apr-2023 08.30-10.00 1.0 first lab
+    - 25-Apr-2023 08.30-10.00 1.0 first lab
