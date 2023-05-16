@@ -16,7 +16,9 @@
 # Blackboard
 
 # Log
-- [0.14] Spring 23 pp s3 lab
+- [0.15] Procedural programming s4 exercises
+    - 16-May-2023 22.35-00.14 session 4 exercises
+- [0.14] Procedural programming s3 lab
     - 16-May-2023 08.30-09.05 session 3 lab
 - [0.13] spring23:pp:s3: Session3 exercises
     - 15-May-2023 14.54-15.39 session 3 exercises
