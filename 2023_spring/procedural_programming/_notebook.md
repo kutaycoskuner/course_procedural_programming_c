@@ -16,6 +16,9 @@
 # Blackboard
 
 # Log
+- [0.19] Procedural programming session 6 exercises
+    - 13-Jun-2023 18.27-19.30 session 6 exercises
+
 - [0.18] Procedural programming session 5 lab
     - 13-Jun-2023 08.30-09.35 session 5 lab1, lab2
 
