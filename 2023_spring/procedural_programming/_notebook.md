@@ -16,6 +16,10 @@
 # Blackboard
 
 # Log
+- [0.23] Procedural programming session 8 exercises
+    - 27-Jun-2023 18.00-20.20 add: Session 8 exercises
+    - 27-Jun-2023 08.35-10.25 wip: Session 8 exercises part 1
+
 - [0.22] Procedural programming session 7 lab
     - 27-Jun-2023 08.30-09.20 add: session 7 lab
 
