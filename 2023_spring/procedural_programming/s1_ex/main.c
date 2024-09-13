@@ -91,8 +91,8 @@ void lab1_1()
 {
     char first_name[5] = "Kutay";
     char last_name[8] = "Coskuner";
-    int matrikel_number = 3175579;
-    char address[] = "Ruhrorter Strasse 70, 47059, Duisburg";
+    int matrikel_number = 3175571;
+    char address[] = "Some Place 12, 47059, Duisburg";
 
     printf("%s %s \n%d \n%s", first_name, last_name, matrikel_number, address);
 }

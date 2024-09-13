@@ -16,6 +16,11 @@
 # Blackboard
 
 # Log
+- [0.25] readme update
+    - 14-Sep-2024 00.50-00.37 
+        - readme update
+        - remove outdated confidential info
+
 - [0.24] Procedural programming session 8 lab
     - 04-Jul-2023 08.32-09.19 add: Session 8 lab
 
